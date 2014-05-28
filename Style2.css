@@ -1,0 +1,126 @@
+	#Holder{
+		min-height: 900px;
+		clear: both;
+	}
+	#Articles{
+		clear: both;
+	}
+	header{
+		font-size: 80px;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: #335A81;
+		text-align: center;
+	}
+	nav ul li div{
+		width: 100px;
+	}
+	.article1{
+		background-color: #8D6B2B;
+		float: left;
+		width: 33.3%;
+	}
+	.article1 h1{
+		font-size: 40px;
+		text-align: center;
+	}
+	.article2{
+		background-color: #EBA605;
+		float: left;
+		width: 33.4%;
+	}
+	.article2 h1{
+		font-size: 40px;
+		text-align: center;
+	}
+	.article3{
+		background-color: #4A4B50;
+		float: left;
+		width: 33.3%;
+	}
+	.article3 h1{
+		font-size: 40px;
+		text-align: center;
+	}
+	p{
+		font-size: 23px;
+	}
+	#1{
+		width: 33.3%;
+	}
+	#2{
+		width: 33.4%;
+	}
+	#3{
+		width: 33.3%;
+	}
+	@media screen and (max-width: 1000px){
+		article{
+			width: 100% !important;
+		}
+	}
+	img{
+		width: 100%;
+	}
+	nav ul li a{
+				background-img: 
+				color: black;
+				height: 60px;
+				width: 100px;
+				display:block;
+				text-align: center;
+				padding-top: 40px;
+				border-radius: 110px;
+				margin: 0 auto;
+			}
+	nav ul li div{
+				float: left;
+				width: 100%;
+	}
+			
+			
+	nav ul li a:hover{
+					color: black;
+			}
+	nav ul li{
+					list-style: none;
+					float: left;
+					position: relative;
+					width: 33.3%;
+			}
+	nav{
+					margin: auto;
+					width: 100%;
+			}
+	nav ul{
+		margin: 0;
+		padding: 0;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+	 
+	
+	
+	
+	
+	
+	
+	
+	
