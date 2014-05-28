@@ -16,7 +16,8 @@
 		width: 100px;
 	}
 	.article1{
-		background-color: #8D6B2B;
+		background-image: url(Images/MCBS.jpg);
+		background-size: 15%;
 		float: left;
 		width: 33.3%;
 	}
@@ -63,7 +64,7 @@
 		width: 100%;
 	}
 	nav ul li a{
-				background-img: 
+				background-color: #EBA605;
 				color: black;
 				height: 60px;
 				width: 100px;
