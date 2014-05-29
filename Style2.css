@@ -33,7 +33,7 @@
 		text-align: center;
 	}
 	.article2{
-		background-color: #EBA605;
+		background-image: url(Images/DM.jpg);
 		float: left;
 		width: 33.4%;
 	}
@@ -42,7 +42,7 @@
 		text-align: center;
 	}
 	.article3{
-		background-color: #339900;
+		background-image: url(Images/AHL.png);
 		float: left;
 		width: 33.3%;
 	}
