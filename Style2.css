@@ -1,6 +1,13 @@
 	#Holder{
 		min-height: 900px;
 		clear: both;
+		background-image: url(Images/NC.jpg);
+		background-size:9%;
+	}
+	header{
+		background-image: url(Images/anime.jpg);
+		background-size:9%;
+		color: white;
 	}
 	#Articles{
 		clear: both;
@@ -16,7 +23,7 @@
 		width: 100px;
 	}
 	.article1{
-		background-image: url(Images/MCBS.jpg);
+		background-image: url(Images/WB.jpg);
 		background-size: 15%;
 		float: left;
 		width: 33.3%;
@@ -35,7 +42,7 @@
 		text-align: center;
 	}
 	.article3{
-		background-color: #4A4B50;
+		background-color: #339900;
 		float: left;
 		width: 33.3%;
 	}
